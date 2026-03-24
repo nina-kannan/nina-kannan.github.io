@@ -12,7 +12,7 @@ export const meta = {
   phone: "+1 (609) 955-8612",
   linkedin: "https://linkedin.com/in/nina-kannan",
   github: "https://github.com/nina-kannan",
-  gpa: "3.97 / 4.00",
+  gpa: "3.98 / 4.00",
   gradYear: "May 2028",
 };
 

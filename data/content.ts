@@ -1,6 +1,6 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // NINA KANNAN — PORTFOLIO CONTENT
-// Edit this file to update anything on the site. No React knowledge needed.
+// Edit this file to update anything on the site.
 // ─────────────────────────────────────────────────────────────────────────────
 
 export const meta = {
@@ -16,7 +16,7 @@ export const meta = {
   gradYear: "May 2028",
 };
 
-export const about = `I'm a sophomore studying Electrical and Computer Engineering at The University of Texas at Austin (GPA: 3.97). I love working at the intersection of hardware and software — from writing bare-metal embedded systems to building full-stack web apps. I care about using technology to solve real problems and about lifting others up through education and mentorship.`;
+export const about = `I'm a sophomore studying Electrical and Computer Engineering at The University of Texas at Austin (GPA: 3.98). I love working at the intersection of hardware and software — from writing bare-metal embedded systems to building full-stack web apps. I care about using technology to solve real problems and about lifting others up through education and mentorship.`;
 
 export type Experience = {
   role: string;
@@ -45,7 +45,7 @@ export const experiences: Experience[] = [
     role: "ECE Lab Checkout Assistant",
     org: "UT Austin — Texas ECE",
     location: "Austin, TX",
-    period: "Aug 2025 – Present",
+    period: "Aug 2025 – Feb 2026",
     bullets: [
       "Support over 100 ECE students weekly by managing checkout and return of electronics lab equipment.",
       "Ensure 100% inventory accuracy for soldering kits, multimeters, and other specialized equipment.",
